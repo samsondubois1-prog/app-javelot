@@ -1,0 +1,29 @@
+name: Mise a jour auto des competitions
+
+on:
+  schedule:
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+
+jobs:
+  run-scraper:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Récupérer le code
+        uses: actions/checkout@v3
+
+      - name: Installer Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Exécuter le script
+        run: python script.py
+
+      - name: Enregistrer les modifications
+        run: |
+          git config --global user.name 'bot-javelot'
+          git config --global user.email 'bot@javelot.app'
+          git add competitions.json
+          git commit -m "Mise à jour automatique des compétitions" || exit 0
+          git push
