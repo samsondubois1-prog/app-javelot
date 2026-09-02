@@ -1,31 +1,34 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Trouver des compétitions de javelot U18</title>
-  <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Javelot U18 Finder</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
+    <header>
+        <h1>🎯 Javelot U18 Finder</h1>
+        <p>Trouve tes compétitions Cadet 2 dans toute la France</p>
+        <div class="nav-buttons">
+            <button id="btnSearchTab" class="tab-btn active" onclick="showTab('search')">🔍 Recherche</button>
+            <button id="btnFavTab" class="tab-btn" onclick="showTab('favs')">⭐ Mon Calendrier (<span id="favCount">0</span>)</button>
+        </div>
+    </header>
 
-  <header>
-    <h1>🎯 Javelot U18 Finder</h1>
-    <p>Trouve tes compétitions Cadet 2 dans toute la France</p>
-  </header>
+    <main id="searchSection">
+        <div class="search-box">
+            <input type="text" id="searchInput" placeholder="Entre un département (ex: 18) ou une ville...">
+            <button id="searchBtn">Rechercher</button>
+        </div>
+        <div id="results"></div>
+    </main>
 
-  <main class="container">
-    <div class="search-box">
-      <input 
-        type="text" 
-        id="cityInput" 
-        placeholder="Entre une ville ou un n° de département (ex: Bourges, Orléans, 18, 45...)" 
-      />
-      <button onclick="searchCompetitions()">Rechercher</button>
-    </div>
+    <main id="favsSection" style="display: none;">
+        <h2>📅 Mon Calendrier de Compétitions</h2>
+        <div id="favResults"></div>
+    </main>
 
-    <div id="results" class="results-container"></div>
-  </main>
-
-  <script src="app.js"></script>
+    <script src="app.js"></script>
 </body>
 </html>
