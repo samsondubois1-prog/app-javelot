@@ -1,0 +1,34 @@
+name: Mise a jour auto des competitions
+
+on:
+  schedule:
+    # S'exécute automatiquement tous les jours à 6h00 UTC
+    - cron: '0 6 * * *'
+  workflow_dispatch: # Permet de lancer la mise à jour manuellement en 1 clic
+
+jobs:
+  run-scraper:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Récupérer le code
+        uses: actions/checkout@v3
+
+      - name: Installer Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Installer les dépendances
+        run: |
+          pip install requests beautifulsoup4
+
+      - name: Exécuter le script
+        run: python script.py
+
+      - name: Enregistrer les modifications
+        run: |
+          git config --global user.name 'bot-javelot'
+          git config --global user.email 'bot@javelot.app'
+          git add competitions.json
+          git commit -m "Mise à jour automatique des compétitions" || exit 0
+          git push
