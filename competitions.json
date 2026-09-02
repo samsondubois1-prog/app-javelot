@@ -1,410 +1,5 @@
 [
   {
-    "nom": "6 Septembre 2026",
-    "ville": "\"La Joël Chrétien\" 38è éd. course de l'ASM",
-    "dept": "",
-    "region": "",
-    "date": "",
-    "epreuve": "Javelot / Lancers / Piste (U18)",
-    "lieu": "Stade municipal (\"La Joël Chrétien\" 38è éd. course de l'ASM)"
-  },
-  {
-    "nom": "30 Août 2026",
-    "ville": "Pentalancer Challans",
-    "dept": "",
-    "region": "",
-    "date": "",
-    "epreuve": "Javelot / Lancers / Piste (U18)",
-    "lieu": "Stade municipal (Pentalancer Challans)"
-  },
-  {
-    "nom": "29 Août 2026",
-    "ville": "Régionaux pentalancers masters",
-    "dept": "",
-    "region": "",
-    "date": "",
-    "epreuve": "Javelot / Lancers / Piste (U18)",
-    "lieu": "Stade municipal (Régionaux pentalancers masters)"
-  },
-  {
-    "nom": "29 Août 2026",
-    "ville": "Meeting du Florentinois",
-    "dept": "",
-    "region": "",
-    "date": "",
-    "epreuve": "Javelot / Lancers / Piste (U18)",
-    "lieu": "Stade municipal (Meeting du Florentinois)"
-  },
-  {
-    "nom": "23 Août 2026",
-    "ville": "Trail de Loir'Espoir Athlé",
-    "dept": "",
-    "region": "",
-    "date": "",
-    "epreuve": "Javelot / Lancers / Piste (U18)",
-    "lieu": "Stade municipal (Trail de Loir'Espoir Athlé)"
-  },
-  {
-    "nom": "22 Août 2026",
-    "ville": "EKIDEN de TAHITI",
-    "dept": "",
-    "region": "",
-    "date": "",
-    "epreuve": "Javelot / Lancers / Piste (U18)",
-    "lieu": "Stade municipal (EKIDEN de TAHITI)"
-  },
-  {
-    "nom": "15 Août 2026",
-    "ville": "LA VAIMATO",
-    "dept": "",
-    "region": "",
-    "date": "",
-    "epreuve": "Javelot / Lancers / Piste (U18)",
-    "lieu": "Stade municipal (LA VAIMATO)"
-  },
-  {
-    "nom": "15 Août 2026",
-    "ville": "Corrida de Montcy-notre-Dame",
-    "dept": "",
-    "region": "",
-    "date": "",
-    "epreuve": "Javelot / Lancers / Piste (U18)",
-    "lieu": "Stade municipal (Corrida de Montcy-notre-Dame)"
-  },
-  {
-    "nom": "9 Août 2026",
-    "ville": "Ronde de Chassignolles",
-    "dept": "",
-    "region": "",
-    "date": "",
-    "epreuve": "Javelot / Lancers / Piste (U18)",
-    "lieu": "Stade municipal (Ronde de Chassignolles)"
-  },
-  {
-    "nom": "8 Août 2026",
-    "ville": "Championnats de France de Course Verticale",
-    "dept": "",
-    "region": "",
-    "date": "",
-    "epreuve": "Javelot / Lancers / Piste (U18)",
-    "lieu": "Stade municipal (Championnats de France de Course Verticale)"
-  },
-  {
-    "nom": "2 Août 2026",
-    "ville": "Les courses de Vezzani",
-    "dept": "",
-    "region": "",
-    "date": "",
-    "epreuve": "Javelot / Lancers / Piste (U18)",
-    "lieu": "Stade municipal (Les courses de Vezzani)"
-  },
-  {
-    "nom": "24-26 juillet 2026",
-    "ville": "Championnats de France Elite",
-    "dept": "",
-    "region": "",
-    "date": "",
-    "epreuve": "Javelot / Lancers / Piste (U18)",
-    "lieu": "Stade municipal (Championnats de France Elite)"
-  },
-  {
-    "nom": "19 Juillet 2026",
-    "ville": "Petri Bianchi Trail",
-    "dept": "",
-    "region": "",
-    "date": "",
-    "epreuve": "Javelot / Lancers / Piste (U18)",
-    "lieu": "Stade municipal (Petri Bianchi Trail)"
-  },
-  {
-    "nom": "16-19 juillet 2026",
-    "ville": "Championnats de France U*NXT",
-    "dept": "",
-    "region": "",
-    "date": "",
-    "epreuve": "Javelot / Lancers / Piste (U18)",
-    "lieu": "Stade municipal (Championnats de France U*NXT)"
-  },
-  {
-    "nom": "15 Juillet 2026",
-    "ville": "Épreuves ouvertes L'Aigle",
-    "dept": "",
-    "region": "",
-    "date": "",
-    "epreuve": "Javelot / Lancers / Piste (U18)",
-    "lieu": "Stade municipal (Épreuves ouvertes L'Aigle)"
-  },
-  {
-    "nom": "15 Juillet 2026",
-    "ville": "Semi-nocturne de l'Auxerrois",
-    "dept": "",
-    "region": "",
-    "date": "",
-    "epreuve": "Javelot / Lancers / Piste (U18)",
-    "lieu": "Stade municipal (Semi-nocturne de l'Auxerrois)"
-  },
-  {
-    "nom": "12 Juillet 2026",
-    "ville": "Finale Régionale des Pointes d'Or",
-    "dept": "",
-    "region": "",
-    "date": "",
-    "epreuve": "Javelot / Lancers / Piste (U18)",
-    "lieu": "Stade municipal (Finale Régionale des Pointes d'Or)"
-  },
-  {
-    "nom": "11-12 juillet 2026",
-    "ville": "Open de France",
-    "dept": "",
-    "region": "",
-    "date": "",
-    "epreuve": "Javelot / Lancers / Piste (U18)",
-    "lieu": "Stade municipal (Open de France)"
-  },
-  {
-    "nom": "11 Juillet 2026",
-    "ville": "Meeting Label Régional WA de Thaon",
-    "dept": "",
-    "region": "",
-    "date": "",
-    "epreuve": "Javelot / Lancers / Piste (U18)",
-    "lieu": "Stade municipal (Meeting Label Régional WA de Thaon)"
-  },
-  {
-    "nom": "11 Juillet 2026",
-    "ville": "Pentalancer Beaune",
-    "dept": "",
-    "region": "",
-    "date": "",
-    "epreuve": "Javelot / Lancers / Piste (U18)",
-    "lieu": "Stade municipal (Pentalancer Beaune)"
-  },
-  {
-    "nom": "10 Juillet 2026",
-    "ville": "Les soirees de Suresnes n2",
-    "dept": "",
-    "region": "",
-    "date": "",
-    "epreuve": "Javelot / Lancers / Piste (U18)",
-    "lieu": "Stade municipal (Les soirees de Suresnes n2)"
-  },
-  {
-    "nom": "10 Juillet 2026",
-    "ville": "Soirées perche",
-    "dept": "3ème journée",
-    "region": "3ème journée",
-    "date": "",
-    "epreuve": "Javelot / Lancers / Piste (U18)",
-    "lieu": "Stade municipal (Soirées perche)"
-  },
-  {
-    "nom": "10 Juillet 2026",
-    "ville": "Challenge Lachiche",
-    "dept": "",
-    "region": "",
-    "date": "",
-    "epreuve": "Javelot / Lancers / Piste (U18)",
-    "lieu": "Stade municipal (Challenge Lachiche)"
-  },
-  {
-    "nom": "10 Juillet 2026",
-    "ville": "1000m d'Herculis",
-    "dept": "",
-    "region": "",
-    "date": "",
-    "epreuve": "Javelot / Lancers / Piste (U18)",
-    "lieu": "Stade municipal (1000m d'Herculis)"
-  },
-  {
-    "nom": "9 Juillet 2026",
-    "ville": "Meeting de Lancers du SATUC MI2+",
-    "dept": "4/4",
-    "region": "4/4",
-    "date": "",
-    "epreuve": "Javelot / Lancers / Piste (U18)",
-    "lieu": "Stade municipal (Meeting de Lancers du SATUC MI2+)"
-  },
-  {
-    "nom": "8 Juillet 2026",
-    "ville": "Meeting Entente Sevre",
-    "dept": "",
-    "region": "",
-    "date": "",
-    "epreuve": "Javelot / Lancers / Piste (U18)",
-    "lieu": "Stade municipal (Meeting Entente Sevre)"
-  },
-  {
-    "nom": "8 Juillet 2026",
-    "ville": "Gaperché",
-    "dept": "",
-    "region": "",
-    "date": "",
-    "epreuve": "Javelot / Lancers / Piste (U18)",
-    "lieu": "Stade municipal (Gaperché)"
-  },
-  {
-    "nom": "8 Juillet 2026",
-    "ville": "Meeting Jacques LEFEVRE",
-    "dept": "",
-    "region": "",
-    "date": "",
-    "epreuve": "Javelot / Lancers / Piste (U18)",
-    "lieu": "Stade municipal (Meeting Jacques LEFEVRE)"
-  },
-  {
-    "nom": "8 Juillet 2026",
-    "ville": "Meeting de longueur de l'US Talence",
-    "dept": "",
-    "region": "",
-    "date": "",
-    "epreuve": "Javelot / Lancers / Piste (U18)",
-    "lieu": "Stade municipal (Meeting de longueur de l'US Talence)"
-  },
-  {
-    "nom": "8 Juillet 2026",
-    "ville": "Meeting de Perche de l'US Talence",
-    "dept": "",
-    "region": "",
-    "date": "",
-    "epreuve": "Javelot / Lancers / Piste (U18)",
-    "lieu": "Stade municipal (Meeting de Perche de l'US Talence)"
-  },
-  {
-    "nom": "8 Juillet 2026",
-    "ville": "Meeting d'Athlétisme du Pas-de-Calais/Arras",
-    "dept": "",
-    "region": "",
-    "date": "",
-    "epreuve": "Javelot / Lancers / Piste (U18)",
-    "lieu": "Stade municipal (Meeting d'Athlétisme du Pas-de-Calais/Arras)"
-  },
-  {
-    "nom": "8 Juillet 2026",
-    "ville": "Meeting régional WA - Chartres -",
-    "dept": "",
-    "region": "",
-    "date": "",
-    "epreuve": "Javelot / Lancers / Piste (U18)",
-    "lieu": "Stade municipal (Meeting régional WA - Chartres -)"
-  },
-  {
-    "nom": "8 Juillet 2026",
-    "ville": "Meeting Jean Leclaire",
-    "dept": "",
-    "region": "",
-    "date": "",
-    "epreuve": "Javelot / Lancers / Piste (U18)",
-    "lieu": "Stade municipal (Meeting Jean Leclaire)"
-  },
-  {
-    "nom": "8 Juillet 2026",
-    "ville": "Meeting 4 lancers",
-    "dept": "",
-    "region": "",
-    "date": "",
-    "epreuve": "Javelot / Lancers / Piste (U18)",
-    "lieu": "Stade municipal (Meeting 4 lancers)"
-  },
-  {
-    "nom": "8 Juillet 2026",
-    "ville": "Semi-nocturne du Sénonais",
-    "dept": "",
-    "region": "",
-    "date": "",
-    "epreuve": "Javelot / Lancers / Piste (U18)",
-    "lieu": "Stade municipal (Semi-nocturne du Sénonais)"
-  },
-  {
-    "nom": "8 Juillet 2026",
-    "ville": "Trophée des Alpes 2026 Belley",
-    "dept": "",
-    "region": "",
-    "date": "",
-    "epreuve": "Javelot / Lancers / Piste (U18)",
-    "lieu": "Stade municipal (Trophée des Alpes 2026 Belley)"
-  },
-  {
-    "nom": "7 Juillet 2026",
-    "ville": "Challenge Roger Boudin - Max Gardi",
-    "dept": "",
-    "region": "",
-    "date": "",
-    "epreuve": "Javelot / Lancers / Piste (U18)",
-    "lieu": "Stade municipal (Challenge Roger Boudin - Max Gardi)"
-  },
-  {
-    "nom": "5 Juillet 2026",
-    "ville": "Finale regionale pointes d'or BE/MI",
-    "dept": "",
-    "region": "",
-    "date": "",
-    "epreuve": "Javelot / Lancers / Piste (U18)",
-    "lieu": "Stade municipal (Finale regionale pointes d'or BE/MI)"
-  },
-  {
-    "nom": "5 Juillet 2026",
-    "ville": "4eme Meeting de l'Avia Club Athlétisme Yves Niare",
-    "dept": "",
-    "region": "",
-    "date": "",
-    "epreuve": "Javelot / Lancers / Piste (U18)",
-    "lieu": "Stade municipal (4eme Meeting de l'Avia Club Athlétisme Yves Niare)"
-  },
-  {
-    "nom": "5 Juillet 2026",
-    "ville": "Régionaux CJES sauf demi-fond",
-    "dept": "",
-    "region": "",
-    "date": "",
-    "epreuve": "Javelot / Lancers / Piste (U18)",
-    "lieu": "Stade municipal (Régionaux CJES sauf demi-fond)"
-  },
-  {
-    "nom": "5 Juillet 2026",
-    "ville": "Inter-comités U16 & finale B pointes d'or U14",
-    "dept": "",
-    "region": "",
-    "date": "",
-    "epreuve": "Javelot / Lancers / Piste (U18)",
-    "lieu": "Stade municipal (Inter-comités U16 & finale B pointes d'or U14)"
-  },
-  {
-    "nom": "5 Juillet 2026",
-    "ville": "Meeting de fin de saison",
-    "dept": "",
-    "region": "",
-    "date": "",
-    "epreuve": "Javelot / Lancers / Piste (U18)",
-    "lieu": "Stade municipal (Meeting de fin de saison)"
-  },
-  {
-    "nom": "5 Juillet 2026",
-    "ville": "Match intercomités minimes (U16) et finale Pointes d'Or benjamin(e)s (U14) - Besançon",
-    "dept": "",
-    "region": "",
-    "date": "",
-    "epreuve": "Javelot / Lancers / Piste (U18)",
-    "lieu": "Stade municipal (Match intercomités minimes (U16) et finale Pointes d'Or benjamin(e)s (U14) - Besançon)"
-  },
-  {
-    "nom": "5 Juillet 2026",
-    "ville": "Meeting de Chambery -",
-    "dept": "",
-    "region": "",
-    "date": "",
-    "epreuve": "Javelot / Lancers / Piste (U18)",
-    "lieu": "Stade municipal (Meeting de Chambery -)"
-  },
-  {
-    "nom": "5 Juillet 2026",
-    "ville": "Meeting de cloture - Lyon Athletisme - Stade de Parilly",
-    "dept": "",
-    "region": "",
-    "date": "",
-    "epreuve": "Javelot / Lancers / Piste (U18)",
-    "lieu": "Stade municipal (Meeting de cloture - Lyon Athletisme - Stade de Parilly)"
-  },
-  {
     "nom": "Meeting de Lancers du Cher",
     "ville": "Bourges",
     "dept": "18",
@@ -423,6 +18,15 @@
     "lieu": "Stade Robert Barran"
   },
   {
+    "nom": "Meeting de Châteauroux",
+    "ville": "Châteauroux",
+    "dept": "36",
+    "region": "Centre-Val de Loire",
+    "date": "2026-10-04",
+    "epreuve": "Javelot U18 M/F",
+    "lieu": "Stade Tissier"
+  },
+  {
     "nom": "Critérium Estival de Lancers",
     "ville": "Orléans",
     "dept": "45",
@@ -432,30 +36,66 @@
     "lieu": "Stade de la Source"
   },
   {
-    "nom": "Journée Départementale du Loiret",
-    "ville": "Orléans",
-    "dept": "45",
-    "region": "Centre-Val de Loire",
-    "date": "2026-10-10",
-    "epreuve": "Javelot U18 M/F",
-    "lieu": "Complexe Popico"
-  },
-  {
-    "nom": "Meeting de Lancers Longs",
-    "ville": "Saran",
-    "dept": "45",
-    "region": "Centre-Val de Loire",
-    "date": "2026-11-08",
-    "epreuve": "Lancers Longs",
-    "lieu": "Stade Colette Besson"
-  },
-  {
-    "nom": "Championnats Régionaux de Lancers",
+    "nom": "Championnats Régionaux",
     "ville": "Tours",
     "dept": "37",
     "region": "Centre-Val de Loire",
     "date": "2027-01-17",
     "epreuve": "Javelot Cadet / Junior",
     "lieu": "Grand Stade de Tours"
+  },
+  {
+    "nom": "Critérium Francilien de Lancers",
+    "ville": "Paris",
+    "dept": "75",
+    "region": "Île-de-France",
+    "date": "2026-10-25",
+    "epreuve": "Javelot U18",
+    "lieu": "Stade Charléty"
+  },
+  {
+    "nom": "Meeting des Jeunes du 91",
+    "ville": "Evry",
+    "dept": "91",
+    "region": "Île-de-France",
+    "date": "2026-11-15",
+    "epreuve": "Javelot 700g",
+    "lieu": "Complexe Jean Bouin"
+  },
+  {
+    "nom": "Meeting Automnal de Lyon",
+    "ville": "Lyon",
+    "dept": "69",
+    "region": "Auvergne-Rhône-Alpes",
+    "date": "2026-10-18",
+    "epreuve": "Javelot Cadet M/F",
+    "lieu": "Stade de Balmont"
+  },
+  {
+    "nom": "Journée Lancers Longs",
+    "ville": "Poitiers",
+    "dept": "86",
+    "region": "Nouvelle-Aquitaine",
+    "date": "2026-11-01",
+    "epreuve": "Javelot U18",
+    "lieu": "Stade Rebeilleau"
+  },
+  {
+    "nom": "Meeting de Bordeaux",
+    "ville": "Bordeaux",
+    "dept": "33",
+    "region": "Nouvelle-Aquitaine",
+    "date": "2026-10-20",
+    "epreuve": "Javelot 700g",
+    "lieu": "Stade Chaban-Delmas"
+  },
+  {
+    "nom": "Meeting Nord Lancers",
+    "ville": "Lille",
+    "dept": "59",
+    "region": "Hauts-de-France",
+    "date": "2026-10-11",
+    "epreuve": "Javelot 700g",
+    "lieu": "Complexe Lery"
   }
 ]
