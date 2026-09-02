@@ -6,7 +6,8 @@
     "region": "Centre-Val de Loire",
     "date": "2026-10-15",
     "epreuve": "Javelot 700g (Cadet)",
-    "lieu": "Stade Séraucourt"
+    "lieu": "Stade Séraucourt",
+    "lien": "https://centrevaldeloire.athle.fr/"
   },
   {
     "nom": "Challenge Automnal de Lancers",
@@ -15,7 +16,18 @@
     "region": "Centre-Val de Loire",
     "date": "2026-11-22",
     "epreuve": "Javelot Cadet 2",
-    "lieu": "Stade Robert Barran"
+    "lieu": "Stade Robert Barran",
+    "lien": "https://centrevaldeloire.athle.fr/"
+  },
+  {
+    "nom": "Critérium d'Automne de Lancers",
+    "ville": "Saint-Amand-Montrond",
+    "dept": "18",
+    "region": "Centre-Val de Loire",
+    "date": "2026-10-28",
+    "epreuve": "Javelot U18",
+    "lieu": "Stade Municipal",
+    "lien": "https://centrevaldeloire.athle.fr/"
   },
   {
     "nom": "Meeting de Châteauroux",
@@ -24,7 +36,18 @@
     "region": "Centre-Val de Loire",
     "date": "2026-10-04",
     "epreuve": "Javelot U18 M/F",
-    "lieu": "Stade Tissier"
+    "lieu": "Stade Tissier",
+    "lien": "https://centrevaldeloire.athle.fr/"
+  },
+  {
+    "nom": "Meeting de Rentrée des Lancers",
+    "ville": "Blois",
+    "dept": "41",
+    "region": "Centre-Val de Loire",
+    "date": "2026-10-11",
+    "epreuve": "Javelot 700g",
+    "lieu": "Stade Alliet",
+    "lien": "https://centrevaldeloire.athle.fr/"
   },
   {
     "nom": "Critérium Estival de Lancers",
@@ -33,16 +56,18 @@
     "region": "Centre-Val de Loire",
     "date": "2026-09-19",
     "epreuve": "Javelot 700g (Cadet)",
-    "lieu": "Stade de la Source"
+    "lieu": "Stade de la Source",
+    "lien": "https://centrevaldeloire.athle.fr/"
   },
   {
-    "nom": "Championnats Régionaux",
-    "ville": "Tours",
-    "dept": "37",
-    "region": "Centre-Val de Loire",
-    "date": "2027-01-17",
-    "epreuve": "Javelot Cadet / Junior",
-    "lieu": "Grand Stade de Tours"
+    "nom": "Journée Lancers Longs Nivernaise",
+    "ville": "Nevers",
+    "dept": "58",
+    "region": "Bourgogne-Franche-Comté",
+    "date": "2026-11-08",
+    "epreuve": "Javelot U18 M/F",
+    "lieu": "Stade de la Baratte",
+    "lien": "https://lbfc.athle.fr/"
   },
   {
     "nom": "Critérium Francilien de Lancers",
@@ -51,16 +76,8 @@
     "region": "Île-de-France",
     "date": "2026-10-25",
     "epreuve": "Javelot U18",
-    "lieu": "Stade Charléty"
-  },
-  {
-    "nom": "Meeting des Jeunes du 91",
-    "ville": "Evry",
-    "dept": "91",
-    "region": "Île-de-France",
-    "date": "2026-11-15",
-    "epreuve": "Javelot 700g",
-    "lieu": "Complexe Jean Bouin"
+    "lieu": "Stade Charléty",
+    "lien": "https://lifa.athle.fr/"
   },
   {
     "nom": "Meeting Automnal de Lyon",
@@ -69,33 +86,7 @@
     "region": "Auvergne-Rhône-Alpes",
     "date": "2026-10-18",
     "epreuve": "Javelot Cadet M/F",
-    "lieu": "Stade de Balmont"
-  },
-  {
-    "nom": "Journée Lancers Longs",
-    "ville": "Poitiers",
-    "dept": "86",
-    "region": "Nouvelle-Aquitaine",
-    "date": "2026-11-01",
-    "epreuve": "Javelot U18",
-    "lieu": "Stade Rebeilleau"
-  },
-  {
-    "nom": "Meeting de Bordeaux",
-    "ville": "Bordeaux",
-    "dept": "33",
-    "region": "Nouvelle-Aquitaine",
-    "date": "2026-10-20",
-    "epreuve": "Javelot 700g",
-    "lieu": "Stade Chaban-Delmas"
-  },
-  {
-    "nom": "Meeting Nord Lancers",
-    "ville": "Lille",
-    "dept": "59",
-    "region": "Hauts-de-France",
-    "date": "2026-10-11",
-    "epreuve": "Javelot 700g",
-    "lieu": "Complexe Lery"
+    "lieu": "Stade de Balmont",
+    "lien": "https://aura.athle.fr/"
   }
 ]
