@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Trouver des compétitions de javelot U18</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <h1>🎯 Javelot U18 Finder</h1>
+    <p>Trouve tes compétitions Cadet 2 dans toute la France</p>
+  </header>
+
+  <main class="container">
+    <div class="search-box">
+      <input 
+        type="text" 
+        id="cityInput" 
+        placeholder="Entre une ville ou un n° de département (ex: Bourges, Orléans, 18, 45...)" 
+      />
+      <button onclick="searchCompetitions()">Rechercher</button>
+    </div>
+
+    <div id="results" class="results-container"></div>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
